@@ -10,7 +10,7 @@ const Register = () => {
   const handleSubmit = async (e) => {
     e.preventDefault();
     await register(userData);
-    navigate('/');
+    navigate('/tasks');
   };
 
   return (
