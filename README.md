@@ -83,10 +83,6 @@ npm install
 
 ---
 
----
-
-
----
 
 ## Running the App
 
