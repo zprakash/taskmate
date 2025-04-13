@@ -10,6 +10,6 @@
 - **Tasks:** Stored in a database with priority levels.
 
 ## 3️⃣ Architecture Diagram
-![Architecture Diagram](../src/assets/diagrams/architecture.png)
-![Sequence Diagram](../src/assets/diagrams/sequence_diagram.png)
-![Use case Diagram](../src/assets/diagrams/use_case_diagram.png)
+![Architecture Diagram](../frontend/src/assets/diagrams/architecture.png)
+![Sequence Diagram](../frontend/src/assets/diagrams/sequence_diagram.png)
+![Use case Diagram](../frontend/src/assets/diagrams/use_case_diagram.png)
