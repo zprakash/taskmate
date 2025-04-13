@@ -29,6 +29,7 @@ const Tasks = () => {
             onEdit={setEditingTask}
             onDelete={deleteTask}
             onComplete={toggleComplete}
+            onUpdate={handleUpdateTask}
           />
         </div>
         
