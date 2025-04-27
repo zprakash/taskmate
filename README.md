@@ -153,6 +153,34 @@ task-manager/
 
 ---
 
+---
+## Screenshots
+
+### Login Screen
+![Login](./docs/screenshots/login.png)
+*Above: Login screen where users can authenticate to access their tasks.*
+
+### Register Screen
+![Register](./docs/screenshots/register.png)
+*Above: Register screen for new users to create an account.*
+
+### UI Overview
+![UI](./docs/screenshots/ui.png)
+*Above: General UI showcasing the main layout of the app.*
+
+### Add Task Screen
+![Add Task](./docs/screenshots/addtask.png)
+*Above: Add task screen where users can create new tasks with details.*
+
+### Task List Screen
+![Task List](./docs/screenshots/tasklist.png)
+*Above: Task list screen showing all tasks with their respective status, priority, and due dates.*
+
+### Edit Task Screen
+![Edit Task](./docs/screenshots/edit.png)
+*Above: Edit task screen where users can modify task details.*
+---
+
 ##  Contributing
 
 Contributions, issues and feature requests are welcome!  
