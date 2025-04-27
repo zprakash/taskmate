@@ -179,6 +179,7 @@ task-manager/
 ### Edit Task Screen
 ![Edit Task](./docs/screenshots/edit.png)
 *Above: Edit task screen where users can modify task details.*
+
 ---
 
 ##  Contributing
